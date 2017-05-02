@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 1522abdee06fc8240bbfc7e543d7964b
+timeCreated: 1431332344
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animation3_0
+    21300002: animation3_1
+    21300004: animation3_2
+    21300006: animation3_3
+    21300008: animation3_4
+    21300010: animation3_5
+    21300012: animation3_7
+    21300014: animation3_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: animation3_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 130
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animation3_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 130
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animation3_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1
+        width: 125
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animation3_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 146
+        height: 162
+      alignment: 9
+      pivot: {x: .444999993, y: .441350013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animation3_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 147
+        height: 164
+      alignment: 9
+      pivot: {x: .442000002, y: .43599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animation3_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 193
+        height: 164
+      alignment: 9
+      pivot: {x: .336780012, y: .43599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animation3_7
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animation3_6
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 156
+        height: 145
+      alignment: 9
+      pivot: {x: .416700006, y: .493000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

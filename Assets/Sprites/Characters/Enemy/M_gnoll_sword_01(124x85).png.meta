@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: de6511b9537edc9418744df3a95307e4
+timeCreated: 1431105317
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M_gnoll_sword_01(124x85)_0
+    21300002: M_gnoll_sword_01(124x85)_1
+    21300004: M_gnoll_sword_01(124x85)_2
+    21300006: M_gnoll_sword_01(124x85)_3
+    21300008: M_gnoll_sword_01(124x85)_4
+    21300010: M_gnoll_sword_01(124x85)_5
+    21300012: M_gnoll_sword_01(124x85)_6
+    21300014: M_gnoll_sword_01(124x85)_7
+    21300016: M_gnoll_sword_01(124x85)_8
+    21300018: M_gnoll_sword_01(124x85)_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M_gnoll_sword_01(124x85)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 427
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 428
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 342
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 343
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 282
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 274
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 181
+        width: 72
+        height: 55
+      alignment: 9
+      pivot: {x: .409999996, y: .56400001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 181
+        width: 94
+        height: 63
+      alignment: 9
+      pivot: {x: .31400001, y: .492000014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 92
+        width: 84
+        height: 57
+      alignment: 9
+      pivot: {x: .351200014, y: .54400003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M_gnoll_sword_01(124x85)_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
