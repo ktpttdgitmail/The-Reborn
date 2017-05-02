@@ -76,13 +76,13 @@ public class Spawner : MonoBehaviour
         if (index == 3f)
         {
             GameObject enemyObj = Instantiate(listEnemy[index], posSpawnLeft, transform.rotation) as GameObject;
-            enemyObj.GetComponent<Enemy4>().SetVellocity(true);
+            enemyObj.GetComponent<Enemy4>().setVellocity(true);
             count++;
         } 
         else
         {
             GameObject enemyObj = Instantiate(listEnemy[index], posSpawnLeft, transform.rotation) as GameObject;
-            enemyObj.GetComponent<EnemyController>().SetVellocity(true);
+            enemyObj.GetComponent<EnemyController>().setVellocity(true);
             count++;
         }
         
@@ -93,12 +93,12 @@ public class Spawner : MonoBehaviour
         if (index==3f)
         {
             GameObject enemyObj = Instantiate(listEnemy[index], posSpawnRight, transform.rotation) as GameObject;
-            enemyObj.GetComponent<Enemy4>().SetVellocity(false);
+            enemyObj.GetComponent<Enemy4>().setVellocity(false);
         } 
         else
         {
             GameObject enemyObj = Instantiate(listEnemy[index], posSpawnRight, transform.rotation) as GameObject;
-            enemyObj.GetComponent<EnemyController>().SetVellocity(false);
+            enemyObj.GetComponent<EnemyController>().setVellocity(false);
             count++;
         }
     }

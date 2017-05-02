@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour {
     public int score = 0;
@@ -67,7 +68,7 @@ public class GameController : MonoBehaviour {
 
     public void RestartGame()
     {
-        Application.LoadLevel("WW");
+		SceneManager.LoadScene ("WW");
     }
 
 }

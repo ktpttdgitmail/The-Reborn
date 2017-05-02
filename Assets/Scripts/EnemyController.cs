@@ -71,7 +71,7 @@ public class EnemyController : MonoBehaviour {
         if (col.tag == "DeathAreaSkill")    
             HPEnemy = 0;
     }
-    public void SetVellocity(bool left)
+    public void setVellocity(bool left)
     {
         rb2dEnemy = GetComponent<Rigidbody2D>();
         if (left)
